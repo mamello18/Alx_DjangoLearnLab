@@ -1,0 +1,1 @@
+This project introduces Django project setup and running the development server.
